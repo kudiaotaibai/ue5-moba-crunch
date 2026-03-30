@@ -1,0 +1,53 @@
+# IDE
+.vs/
+.idea/
+*.VC.db
+*.opendb
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.DotSettings.user
+
+# Unreal generated
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Build outputs and packaged artifacts
+*.aps
+*.app
+*.dSYM
+*.dll
+*.dmp
+*.exe
+*.exp
+*.gch
+*.ilk
+*.lib
+*.obj
+*.pdb
+*.pch
+*.pak
+*.psym
+*.sym
+*.so
+*.debug
+*.ucas
+*.utoc
+
+# Python / misc caches
+__pycache__/
+*.pyc
+
+# Local temp files
+_orig_resume_*
+_resume_*
+_tmp_*
+PrePostProcessPass_RenderThread
+ServerDeploy.zip
+
+# Personal / non-project files
+毕设/
+picture/
